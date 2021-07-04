@@ -1,0 +1,93 @@
+[
+  {
+    "id": "6cb53e91-b162-40c1-abaa-64e40a699488",
+    "data": [
+      {
+        "text": "Barbeque chicken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f3c2dd0-f2bd-40a2-b674-16ccf8c0ed90",
+    "data": [
+      {
+        "text": "Ice-cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bff594f-a04b-4599-a4f2-31207646b79b",
+    "data": [
+      {
+        "text": "Soda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64848359-2851-48a3-a9c2-e3ef4681f664",
+    "data": [
+      {
+        "text": "Jamun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c969f9dc-1a16-4c13-907e-e7ce6cf48584",
+    "data": [
+      {
+        "text": "Tomato soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65ef6006-874a-47cc-a69c-65f20b8a1fbb",
+    "data": [
+      {
+        "text": "Paneer tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c4c30ae-ea17-449a-aa07-82ae6b683446",
+    "data": [
+      {
+        "text": "Vegetable samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
